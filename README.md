@@ -19,3 +19,4 @@ _See my pinned repositories for a sample of my work._
 **Find me on:**
 * 💼 [LinkedIn Profile](https://www.linkedin.com/in/danwlsn/) 
 * ✨ [Personal website](https://danwilson.co)
+* 📄 [My CV](https://github.com/danwlsn/cv)
